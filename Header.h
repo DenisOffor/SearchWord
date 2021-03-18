@@ -6,10 +6,8 @@
 #include <QString>
 #include <QFile>
 #include <QMap>
-#include <iostream>
 #include <QFile>
 #include <QTextStream>
-#include <iostream>
 #include <QVector>
 
 class SearchWord
